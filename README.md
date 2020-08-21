@@ -35,11 +35,11 @@ Just setting up the expression as a string like "new name" does not work. I chan
 We can use the defparameter function to set a new value too.
 
 To create functions we use the command defun, like the example below:
-`
+```
 	(defun function-name() 
 		(+ 1 2) )
 
-`
+```
 References:
 
 Land of Lisp
